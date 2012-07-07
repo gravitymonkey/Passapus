@@ -1,0 +1,15 @@
+
+    <resources>
+        <string name="domain">domain</string>
+        <string name="generate_button">generate password</string>
+        <string name="password_length">password length</string>
+        <string name="copy">
+"Domain&lt;br&#47;&gt;&lt;br&#47;&gt;Enter in the domain name of the site, like \"gmail.com\" or \"facebook.com\".&lt;br&#47;&gt;&lt;br&#47;&gt;Password Length&lt;br&#47;&gt;&lt;br&#47;&gt;Not all sites will allow you to add a really long password.  For those that don\'t, you can specify a length and the password passed to the paste buffer will be trimmed accordingly.  Leave it blank or at 0 to use the full-length hashed password.&lt;br&#47;&gt;&lt;br&#47;&gt;Secret&lt;br&#47;&gt;&lt;br&#47;&gt;Enter in your universal password.&lt;br&#47;&gt;&lt;br&#47;&gt;Get more information and source code at passapus.com&lt;br&#47;&gt;&lt;br&#47;&gt;&lt;br&#47;&gt;&lt;br&#47;&gt;"
+
+		</string>
+        <string name="secret">secret</string>
+        <string name="menu_settings">settings</string>
+        <string name="app_name">Passapus</string>
+        <string name="title_activity_help">Help with Passapus</string>
+        <string name="title_activity_password">Passapus</string>
+    </resources>
